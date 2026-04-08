@@ -1,1 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/P6s2rn1y)
+Guilherme Alves Colbert Camara
+1645084
+Plataformas De cursos onlines
+Este site é uma plataforma de cursos online chamada CursosOnline, onde os usuários podem explorar diferentes cursos, visualizar categorias como Front-end, Back-end e Design, e se inscrever para receber novidades por e-mail.
+![alt text](image.png)
+![alt text](image-1.png)
